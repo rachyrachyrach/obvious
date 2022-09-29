@@ -35,10 +35,12 @@ python3 randomwords.py
 ![Clearing Hardware Random Memory](https://i.imgur.com/RblEgYr.jpg)
 ![Your word is Calendar](https://i.imgur.com/U8vOluu.jpg)
 ![Click for new word](https://i.imgur.com/JDjqOKD.gif)
+
 The left button in the image will start a new sesson. 
 
 
 ![Shut down](https://i.imgur.com/SkHHBk5.gif)
+
 The far right button will turn off the Raspberry Pi for you. Wait for 15 seconds before unplugging. 
 
 
