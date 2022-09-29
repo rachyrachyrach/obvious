@@ -6,5 +6,5 @@ README is a work in progress.
 ![Start up](https://i.imgur.com/fjx8aiI.jpg)
 ![Clearing Hardware Random Memory](https://i.imgur.com/RblEgYr.jpg)
 ![Your word is Calendar](https://i.imgur.com/U8vOluu.jpg)
-![Click for new word](https://imgur.com/a/fcl1pFJ)
+![Click for new word](https://i.imgur.com/JDjqOKD.gif)
 
