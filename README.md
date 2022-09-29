@@ -9,7 +9,7 @@ Get a Raspberry Pi, LCD Display, and buttons.
 
 ## Step 2:
 
-Put the `randomwords` file in your home directory. 
+Put the `randomwords` folder in your home directory. 
 
 Example: `/home/rachael/randomwords/`
 
