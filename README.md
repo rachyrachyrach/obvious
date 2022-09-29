@@ -1,6 +1,6 @@
 # Obvious
 
-The Obvious is a Raspberry Pi that runs the dictonary! We made this to act like the Ovilus which is used in various ghost hunting shows.  You will need an LED display and buttons. 
+The Obvious is a Raspberry Pi that runs the dictonary! We made this to act like the [Ovilus](https://www.digitaldowsing.com/) which is used in various ghost hunting shows.  You will need an LED display and buttons. 
 
 
 ## Step 1:
