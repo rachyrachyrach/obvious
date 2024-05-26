@@ -4,6 +4,7 @@ The Obvious is a Raspberry Pi that runs the dictonary! We made this to act like 
 
 * Please note this was written for an older linux kernel.  This may not work due to the kernel update for Raspberry Pi. 
 
+* [Watch it in action](https://www.tiktok.com/@tnohparanormalsociety/video/7148853468009123115?is_from_webapp=1&sender_device=pc&web_id=7373326302117414430)
 
 ## Step 1:
 
